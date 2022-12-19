@@ -1,0 +1,18 @@
+.color-title{
+    background-color: #0ea5e9;
+}
+.button {
+    background-color:#fb923c;
+    border: none;
+    color: whitesmoke;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+  .btn-right{
+    float: right;
+  }
